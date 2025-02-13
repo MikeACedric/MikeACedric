@@ -20,7 +20,7 @@
 
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan, currently based in Hannover, Germany.
 - :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 
 - :zap: In my free time, I like to watch Cricket & Formula 1.
